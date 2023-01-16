@@ -1,0 +1,5 @@
+/go.sum
+/apppackage/templates/
+/.idea/
+/apppackage/tmp/
+/apppackage/jre/
